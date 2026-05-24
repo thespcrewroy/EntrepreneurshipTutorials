@@ -4,6 +4,7 @@
 * **Powerpoint:** presentation software application by Microsoft used to create slide-based visual presentations
     * **Think Cell:** a PowerPoint add-in that streamlines the creation of professional charts, graphs, and data-driven presentations
 * **Excel:** a spreadsheet application by Microsoft used for organizing, analyzing, calculating, and visualizing data
+* **ChatGBT:** AI powered tool for crafting professionally written messages
 
 ## Supply Chain
 * **Celonis:** a process mining and execution management platform that analyzes business processes to optimize them
@@ -14,6 +15,7 @@
 * **AWS Simple Email Service (SES):** a cloud-based email service by Amazon used to send, receive, and emails at scale
 * **[Adcreative.ai](https://www.adcreative.ai/):** generate ad banners, texts, photoshoots, and video advertisements using AI
 * **Mailchimp:** an email marketing and automation platform used to create campaigns, manage audiences, and track marketing performance
+* **[Copy.ai](https://www.copy.ai/?via=bryan-koch):** AI-powered platform designed to assist users in generating marketing content quickly
 
 ## Sales
 * **[Dropship.io](https://www.dropship.io/):** research current products that have the highest market value
