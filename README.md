@@ -1,1 +1,1 @@
-# EntrepreneurshipTutorials
+# Entrepreneurship Tutorials
