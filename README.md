@@ -12,6 +12,7 @@
 ## Marketing
 * **AWS Simple Messaging Service (SMS):** a fully managed messaging service by AWS used to send notifications and enable pub/sub comms
 * **AWS Simple Email Service (SES):** a cloud-based email service by Amazon used to send, receive, and emails at scale
+* **[Adcreative.ai](https://www.adcreative.ai/):** generate ad banners, texts, photoshoots, and video advertisements
 * **Mailchimp:** an email marketing and automation platform used to create campaigns, manage audiences, and track marketing performance
 
 ## Sales
