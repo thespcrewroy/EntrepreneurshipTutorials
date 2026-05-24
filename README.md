@@ -4,7 +4,6 @@
 * **Powerpoint:** presentation software application by Microsoft used to create slide-based visual presentations
     * **Think Cell:** a PowerPoint add-in that streamlines the creation of professional charts, graphs, and data-driven presentations
 * **Excel:** a spreadsheet application by Microsoft used for organizing, analyzing, calculating, and visualizing data
-* **ChatGBT:** AI powered tool for crafting professionally written messages
 
 ## Supply Chain
 * **Celonis:** a process mining and execution management platform that analyzes business processes to optimize them
