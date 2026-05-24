@@ -1,5 +1,8 @@
 # Entrepreneurship Tutorials
 
+## Entrepreneurship
+* **[Google Gemini Mixboard](https://labs.google.com/mixboard/welcome):** useful for generating prototypes
+
 ## Business Administration
 * **Powerpoint:** presentation software application by Microsoft used to create slide-based visual presentations
     * **Think Cell:** a PowerPoint add-in that streamlines the creation of professional charts, graphs, and data-driven presentations
@@ -13,8 +16,11 @@
 * **AWS Simple Messaging Service (SMS):** a fully managed messaging service by AWS used to send notifications and enable pub/sub comms
 * **AWS Simple Email Service (SES):** a cloud-based email service by Amazon used to send, receive, and emails at scale
 * **[Adcreative.ai](https://www.adcreative.ai/):** generate ad banners, texts, photoshoots, and video advertisements using AI
-* **Mailchimp:** an email marketing and automation platform used to create campaigns, manage audiences, and track marketing performance
+* **[Google Gemini Pomelli](http://labs.google/fx/tools/pomelli):** marketing tool, personal brand generation, social campaigns
 * **[Copy.ai](https://www.copy.ai/?via=bryan-koch):** AI-powered platform designed to assist users in generating marketing content quickly
+* **Mailchimp:** an email marketing and automation platform used to create campaigns, manage audiences, and track marketing performance
+* **Canva:** an online graphic design platform that enables users to create visual content for a variety of design reasons
+* **Adobe:** a software company known for creative and digital media tools
 
 ## Sales
 * **[Dropship.io](https://www.dropship.io/):** research current products that have the highest market value
