@@ -1,6 +1,6 @@
 # Entrepreneurship Resources
 
-## UGA Courses
+## College Courses
 * Introduction to Personal Finance (FHCE 3200)
 * Innovation Catalyst and Design (IDEA 4000)
 * [Introduction to Entrepnreurship (ENTR 5500)](https://quizlet.com/user/royswapnil07/folders/intro-to-entrepreneurship-entr-5500)
@@ -11,8 +11,6 @@
   
 ## Newsletters
 * [Financial Times](https://www.ft.com/): an international news organization for business, finance, economics, and global affairs.
-* [Black Swan Street](https://www.blackswanstreet.com/): 
-* [YCombinator Hacker News](https://news.ycombinator.com/news)
-* [Morning Brew](https://www.morningbrew.com/daily)
-* [Stories About Software](https://daedtech.com/)
-* [Ground News](https://ground.news/)
+* [Morning Brew](https://www.morningbrew.com/daily): digital media company best known for its business and technology news newsletter for students
+* [YCombinator Hacker News](https://news.ycombinator.com/news): social news focused on technology, startups, programming, and entrepreneurship
+* [Ground News](https://ground.news/): news aggregation platform that compares reporting sources and political biases
