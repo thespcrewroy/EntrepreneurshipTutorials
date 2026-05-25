@@ -32,7 +32,7 @@
 ## Accounting
 * **[Intuit Quickbooks](https://quickbooks.intuit.com/):** manage finances/invoices, track expenses, and taxes
 
-## UGA Courses (Entrepreneurship Theory Repository)
+## UGA Courses (Business Theory Repository)
 * Introduction to Personal Finance (FHCE 3200)
 * Innovation Catalyst and Design (IDEA 4000)
 * [Introduction to Entrepnreurship (ENTR 5500)](https://quizlet.com/user/royswapnil07/folders/intro-to-entrepreneurship-entr-5500)
