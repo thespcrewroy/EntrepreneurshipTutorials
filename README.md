@@ -31,6 +31,3 @@
 
 ## Accounting
 * **[Intuit Quickbooks](https://quickbooks.intuit.com/):** manage finances/invoices, track expenses, and taxes
-
-## Certifications
-* Actuary Examination P
