@@ -1,6 +1,6 @@
-# Entrepreneurship Tutorials
+# Business Tutorials
 
-## Research & Development
+## Entrepreneurship
 * **[Google Gemini Mixboard](https://labs.google.com/mixboard/welcome):** useful for generating prototypes
 
 ## Business Administration
