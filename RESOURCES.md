@@ -24,13 +24,13 @@
 ## Side Hustles
 * [Knack](https://www.joinknack.com/): scale peer tutoring platform
 * [OutlierAI](https://outlier.ai/): AI training platform
-* [DataAnnotation]9https://www.dataannotation.tech/): AI training competitor
+* [DataAnnotation](https://www.dataannotation.tech/): AI training competitor
 
 ## Newsletters
 * [Financial Times](https://www.ft.com/): an international news organization for business, finance, economics, and global affairs.
 * [Morning Brew](https://www.morningbrew.com/daily): digital media company best known for its business and technology news newsletter for students
 * [YCombinator Hacker News](https://news.ycombinator.com/news): social news focused on technology, startups, programming, and entrepreneurship
 * [Ground News](https://ground.news/): news aggregation platform that compares reporting sources and political biases
-* [Outdoor Boys](https://www.deseret.com/education/2026/05/22/outdoor-boys-youtube-luke-nichols-speak-george-mason-law-school-graduates/)
+* [Outdoor Boys](https://www.deseret.com/education/2026/05/22/outdoor-boys-youtube-luke-nichols-speak-george-mason-law-school-graduates/): graduate speech
 * [Elon Musk](https://www.marieclaire.com/sex-love/a5380/millionaire-starter-wife/): take advantage of wealth
 * [Jefferey Epstein](https://www.forbes.com/sites/giacomotognini/2025/07/25/how-jeffrey-epstein-got-so-rich/): how billionare class gets rich
