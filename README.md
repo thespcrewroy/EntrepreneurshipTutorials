@@ -3,6 +3,8 @@
 ## Entrepreneurship
 * **[Google Gemini Mixboard](https://labs.google.com/mixboard/welcome):** useful for generating prototypes
 * **[Tech Alpharetta Innovation Center](https://techalpharetta.com/startups/):** technology incubator and coworking hub that supports startups
+* **[Claude Cowork]:** Anthropic's agentic solution to work tasks
+* **[ChatGPT Agents]:** OpenAI's agentic solution to work tasks
 
 ## Business Administration
 * **Powerpoint:** presentation software application by Microsoft used to create slide-based visual presentations
