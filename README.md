@@ -1,12 +1,14 @@
 # Business Tutorials
 
 ## Entrepreneurship
+* **FigJam:** whiteboard that empowers teams to build better products together
 * **[Google Gemini Mixboard](https://labs.google.com/mixboard/welcome):** useful for generating prototypes
 * **[Tech Alpharetta Innovation Center](https://techalpharetta.com/startups/):** technology incubator and coworking hub that supports startups
 
 ## Business Administration
 * **Powerpoint:** presentation software application by Microsoft used to create slide-based visual presentations
     * **Think Cell:** a PowerPoint add-in that streamlines the creation of professional charts, graphs, and data-driven presentations
+* **FigSlides:** allows users to create and collaborate on slide presentations
 * **Excel:** a spreadsheet application by Microsoft used for organizing, analyzing, calculating, and visualizing data
 
 ## Supply Chain
