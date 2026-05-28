@@ -19,8 +19,9 @@
 * **[Adcreative.ai](https://www.adcreative.ai/):** generate ad banners, texts, photoshoots, and video advertisements using AI
 * **[Google Gemini Pomelli](http://labs.google/fx/tools/pomelli):** marketing tool, personal brand generation, social campaigns
 * **[Copy.ai](https://www.copy.ai/?via=bryan-koch):** AI-powered platform designed to assist users in generating marketing content quickly
-* **Mailchimp:** an email marketing and automation platform used to create campaigns, manage audiences, and track marketing performance
 * **Canva:** an online graphic design platform that enables users to create visual content for a variety of design reasons
+* **FigBuzz:** AI-enhanced marketing content creator designed to help teams produce brand assets quickly
+* **Mailchimp:** an email marketing and automation platform used to create campaigns, manage audiences, and track marketing performance
 * **QuickTime Player:** Apple’s multimedia player and screen recording application for playing, recording, and editing audio and video files
 * **OBS Studio:** open-source software application used for screen recording, live streaming, and real-time video production
 * **Adobe:** a software company known for creative and digital media tools
