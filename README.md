@@ -4,6 +4,9 @@
 * **FigJam:** whiteboard that empowers teams to build better products together
 * **[Google Gemini Mixboard](https://labs.google.com/mixboard/welcome):** useful for generating prototypes
 * **[Tech Alpharetta Innovation Center](https://techalpharetta.com/startups/):** technology incubator and coworking hub that supports startups
+* **[Claude CoWork]:** Anthropic's agentic AI workspace that autonomously handles complex multi-step knowledge tasks
+* **[Perplexity]:** AI-powered search engine that answers questions using live web research and provides exact citations
+* **[Perplexity Comet]:** integrates a built-in assistant capable of understanding multi-tab context
 
 ## Business Administration
 * **Powerpoint:** presentation software application by Microsoft used to create slide-based visual presentations
