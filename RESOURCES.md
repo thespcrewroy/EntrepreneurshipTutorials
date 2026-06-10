@@ -20,6 +20,8 @@
 * [Progress](https://neurofore.ai/progress/)
 * [Metopi](https://metopipharma.com/)
 * [Rosslite](https://rossilite.com/)
+* [VaultPoint](https://vaultpoint.systems/)
+* [VaultPoint RC2](https://rc2.vaultpoint.systems/)
 
 ## Side Hustles
 * [Knack](https://www.joinknack.com/): scale peer tutoring platform
