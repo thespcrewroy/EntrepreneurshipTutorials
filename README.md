@@ -8,6 +8,9 @@
 * **Gemini Spark:** Google's 24/7 autonomous personal AI agent that autonomously handles complex multi-step knowledge tasks
 * **Perplexity:** AI-powered search engine that answers questions using live web research and provides exact citations
 * **Perplexity Comet:** integrates a built-in assistant capable of understanding multi-tab context
+* **[VaultPoint](https://vaultpoint.systems/):** Divesh's open source ERP and CRM
+* **[VaultPoint CR2](https://rc2.vaultpoint.systems/):** Divesh's open source ERP and CRM
+* **Odoo**: open source ERP and CRM
 
 ## Business Administration
 * **Powerpoint:** presentation software application by Microsoft used to create slide-based visual presentations
