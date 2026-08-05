@@ -19,8 +19,6 @@
 * [BRCE](https://www.brce.shop/?srsltid=AfmBOoqd8g7iKZMGj9sFWpIEDBeX9i7S44aOyFGpp22TzYxhG-yalX-s)
 * [Progress](https://neurofore.ai/progress/)
 * [Metopi](https://metopipharma.com/)
-* [Rosslite](https://rossilite.com/)
-
 
 ## Side Hustles
 * [Knack](https://www.joinknack.com/): scale peer tutoring platform
