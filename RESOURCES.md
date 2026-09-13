@@ -1,13 +1,26 @@
 # Entrepreneurship Resources
 
+## Certifications
+* Actuary Examination P (Probability
+* Actuary Examination FM (Financial Mathematics)
+* Actuary Exam FAM (Fundamentals of Actuarial Mathematics)
+* Actuary Exam ALTAM (Advanced Long-Term Actuarial Mathematics)
+* Actuary Exam ASTAM (Advanced Short-Term Actuarial Mathematics)
+* Actuary Exam SRM (Statistics for Risk Modeling)
+* Actuary Exam PA (Predictive Analytics)
+* Actuary Exam ATPA (Advanced Topics in Predictive Analysis)
+* Certified Financial Planner (CFP)
+* Certified Public Accountant (CPA)
+* Chartered Financial Analyst (CFA)
+
 ## College Courses
 * Introduction to Personal Finance (FHCE 3200)
 * Innovation Catalyst and Design (IDEA 4000)
 * [Introduction to Entrepnreurship (ENTR 5500)](https://quizlet.com/user/royswapnil07/folders/intro-to-entrepreneurship-entr-5500)
 * Financing the Entrepreneurial Venture (ENTR 5505)
 
-## Certifications
-* Actuary Examination P
+## Communities
+* Discord Groups
 
 ## Examples
 * [NVidia Brev](https://brev.dev/)
