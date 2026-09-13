@@ -22,7 +22,7 @@
 ## Finance
 - **Point of Sale (POS):** used to ring up sales, process payments, and track inventory
 - **FinTech (Financial Technologies):** technology used to provide and manage financial services
-   - **Automated Clearing House (ACH):** secure electronic network used to move money directly between bank accounts in the United States
+   - **Automated Clearing House (ACH):** secure electronic network used to move money directly between bank accounts
    - **PayPal**: complementor and catalyst that is an online platform for sending, receiving, and processing payments
    - **FiServ:** catalyst that provides banking software, payment processing, and POS for banks, credit unions, and businesses
    - **Instant Payments:** electronic money transfer that clears and settles between bank accounts in mere second
