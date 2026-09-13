@@ -20,11 +20,6 @@
 * [Progress](https://neurofore.ai/progress/)
 * [Metopi](https://metopipharma.com/)
 
-## Side Hustles
-* [Knack](https://www.joinknack.com/): scale peer tutoring platform
-* [OutlierAI](https://outlier.ai/): AI training platform
-* [DataAnnotation](https://www.dataannotation.tech/): AI training competitor
-
 ## Newsletters
 * [Financial Times](https://www.ft.com/): an international news organization for business, finance, economics, and global affairs.
 * [Morning Brew](https://www.morningbrew.com/daily): digital media company best known for its business and technology news newsletter for students
@@ -33,3 +28,8 @@
 * [Outdoor Boys](https://www.deseret.com/education/2026/05/22/outdoor-boys-youtube-luke-nichols-speak-george-mason-law-school-graduates/): graduate speech
 * [Elon Musk](https://www.marieclaire.com/sex-love/a5380/millionaire-starter-wife/): take advantage of wealth
 * [Jefferey Epstein](https://www.forbes.com/sites/giacomotognini/2025/07/25/how-jeffrey-epstein-got-so-rich/): how billionare class gets rich
+
+## Side Hustles
+* [Knack](https://www.joinknack.com/): scale peer tutoring platform
+* [OutlierAI](https://outlier.ai/): AI training platform
+* [DataAnnotation](https://www.dataannotation.tech/): AI training competitor
