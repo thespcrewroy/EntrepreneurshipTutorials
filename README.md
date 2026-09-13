@@ -15,8 +15,17 @@
 ## Business Administration
 * **Powerpoint:** presentation software application by Microsoft used to create slide-based visual presentations
     * **Think Cell:** a PowerPoint add-in that streamlines the creation of professional charts, graphs, and data-driven presentations
+* **Enterprise Resource Planning (ERP):** type of software that businesses use to connect and manage their core daily operations
 * **FigSlides:** allows users to create and collaborate on slide presentations
 * **Excel:** a spreadsheet application by Microsoft used for organizing, analyzing, calculating, and visualizing data
+
+## Finance
+- **Point of Sale (POS):** used to ring up sales, process payments, and track inventory
+- **FinTech (Financial Technologies):** technology used to provide and manage financial services
+   - **Automated Clearing House (ACH):** secure electronic network used to move money directly between bank accounts in the United States
+   - **PayPal**: complementor and catalyst that is an online platform for sending, receiving, and processing payments
+   - **FiServ:** catalyst that provides banking software, payment processing, and POS for banks, credit unions, and businesses
+   - **Instant Payments:** electronic money transfer that clears and settles between bank accounts in mere second
 
 ## Supply Chain
 * **Celonis:** a process mining and execution management platform that analyzes business processes to optimize them
