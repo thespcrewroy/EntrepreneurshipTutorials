@@ -21,6 +21,9 @@
 
 ## Communities
 * Discord Groups
+    * [Startup Oasis](https://discord.gg/x8wE6dPPMm)
+    * [BullDog Economics](https://discord.gg/9KWyEceXD3)
+    * [Terry College of Business](https://discord.gg/bU8KPVvE94)
 
 ## Examples
 * [NVidia Brev](https://brev.dev/)
