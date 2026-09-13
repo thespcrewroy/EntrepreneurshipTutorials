@@ -1,14 +1,14 @@
 # Entrepreneurship Resources
 
 ## Certifications
-* Actuary Examination P (Probability
+* Actuary Examination P (Probability)
 * Actuary Examination FM (Financial Mathematics)
-* Actuary Exam FAM (Fundamentals of Actuarial Mathematics)
-* Actuary Exam ALTAM (Advanced Long-Term Actuarial Mathematics)
-* Actuary Exam ASTAM (Advanced Short-Term Actuarial Mathematics)
-* Actuary Exam SRM (Statistics for Risk Modeling)
-* Actuary Exam PA (Predictive Analytics)
-* Actuary Exam ATPA (Advanced Topics in Predictive Analysis)
+* Actuary Examination FAM (Fundamentals of Actuarial Mathematics)
+* Actuary Examination ALTAM (Advanced Long-Term Actuarial Mathematics)
+* Actuary Examination ASTAM (Advanced Short-Term Actuarial Mathematics)
+* Actuary Examination SRM (Statistics for Risk Modeling)
+* Actuary Examination PA (Predictive Analytics)
+* Actuary Examination ATPA (Advanced Topics in Predictive Analysis)
 * Certified Financial Planner (CFP)
 * Certified Public Accountant (CPA)
 * Chartered Financial Analyst (CFA)
