@@ -42,7 +42,7 @@
 * [2 November] [Student Industry Fellows](https://el.uga.edu/students/student-industry-fellows-program/): cultivates innovation competencies among UGA students
 * [1 January] [ILA Certificate](https://www.terry.uga.edu/ila/leadership-certificate/): sharpen the next generation of leaders
 * [2 January] [Idea Accelerator](https://www.terry.uga.edu/entrepreneurship/uga-accelerator/): prepare students for the next step in their business development
-* [3 January] [FABricate Entrepreneurial Initiative](https://fabricate.uga.edu/): empowered UGA students to solve real-world challenges in the environmental science space
+* [3 January] [FABricate Entrepreneurial Initiative](https://fabricate.uga.edu/): empowered UGA students to solve real-world challenges in the environmental science
 * [3 January] [Corsair Society](https://www.terry.uga.edu/current-students/student-orgs/corsair-society/): support network for the UGA top undergrad
 * [1 February] [UGA Venture Prize Competition](https://www.terry.uga.edu/entrepreneurship/venture-prize/): student entrepreneurs compete for monetary prizes by pitching
 * [4 January] [Quick Pitch](https://www.terry.uga.edu/entrepreneurship/quick-pitch/): 90-second pitch to a panel of judges from any stage of a company
