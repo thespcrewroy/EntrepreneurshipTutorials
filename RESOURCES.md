@@ -50,8 +50,16 @@
 * [Jefferey Epstein](https://www.forbes.com/sites/giacomotognini/2025/07/25/how-jeffrey-epstein-got-so-rich/): how billionare class gets rich
 
 ## Resources
+* [3 August] [Workforce Diversity Management Certificate](https://www.terry.uga.edu/certificates/workforce-management-certificate/): professional, social, and cultural knowledge
+* [1 September] [Leadership UGA: Emerging Leaders](https://els.uga.edu/leadership-uga/): for first-year and second year students that want leadership as a skill
+* [1 October / 1 January] [Fall ILA Certificate](https://www.terry.uga.edu/ila/leadership-certificate/): sharpen the next generation of leaders
+* [2 October] [Student Leadership Conference](https://els.uga.edu/leadership/uga-student-leadership-conference/): grow as a leader and make an impact at UGA
+* [1 November] [Leadership UGA: Lifelong Leaders](https://els.uga.edu/leadership-uga-lifelong-leaders/): helps 3rd and 4th year student leaders treat leadership as a skill
+* [2 November / 3 January] [Corsair Society](https://www.terry.uga.edu/current-students/student-orgs/corsair-society/): support network for the UGA top undergrad
+* [2 November / 2 April] [Student Industry Fellows](https://el.uga.edu/students/student-industry-fellows-program/): cultivates innovation competencies among UGA students
 * [AthensMade](https://www.visitathensga.com/listing/athensmade/623/): accelerating entrepreneurship in Athens, GA with free wine and food
 * [Georgia Kickstart Program](https://gakickstartfund.uga.edu/): student-managed venture capital fund that invests in student-run businesses
+* [Leadership Dawgs Conference](https://www.terry.uga.edu/ila/leadership-dawgs/): a leadership development program for University of Georgia alumni
 * [UGA I-Corps](https://ugaicorps.uga.edu/): providing hands-on training to UGA faculty and students through its six-week Accelerator
 
 ## Side Hustles
