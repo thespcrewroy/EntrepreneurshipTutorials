@@ -9,7 +9,7 @@
 * **Perplexity:** AI-powered search engine that answers questions using live web research and provides exact citations
 * **Perplexity Comet:** integrates a built-in assistant capable of understanding multi-tab context
 * **[VaultPoint](https://vaultpoint.systems/):** Divesh's open source ERP and CRM
-* **[VaultPoint CR2](https://rc2.vaultpoint.systems/):** Divesh's open source ERP and CRM
+* **[ZetaDeck](https://zetadeck.com/):** one database for your work, your customers, and your money
 * **Odoo**: open source ERP and CRM
 
 ## Business Administration
