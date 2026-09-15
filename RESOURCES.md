@@ -34,6 +34,7 @@
 * [1 September] [Leadership UGA: Emerging Leaders](https://els.uga.edu/leadership-uga/): for first-year and second year students that want leadership as a skill
 * [1 September] [Idea Accelerator](https://www.terry.uga.edu/entrepreneurship/uga-accelerator/): prepare students for the next step in their business development
 * [2 September] [Innovation Bootcamp](https://research.uga.edu/gateway/innovation-bootcamp/): deliver tailored training in order to equip attendees with entrepreneurship
+* [2 September] [Quick Pitch](https://www.terry.uga.edu/entrepreneurship/quick-pitch/): 90-second pitch to a panel of judges from any stage of a company
 * [1 October] [Idea Accelerator](https://www.terry.uga.edu/entrepreneurship/uga-accelerator/): prepare students for the next step in their business development
 * [1 October] [ILA Certificate](https://www.terry.uga.edu/ila/leadership-certificate/): sharpen the next generation of leaders
 * [2 October] [Student Leadership Conference](https://els.uga.edu/leadership/uga-student-leadership-conference/): grow as a leader and make an impact at UGA
@@ -48,7 +49,6 @@
 * [4 January] [Quick Pitch](https://www.terry.uga.edu/entrepreneurship/quick-pitch/): 90-second pitch to a panel of judges from any stage of a company
 * [4 February] [Collegiate Great Brands Competition](https://www.terry.uga.edu/entrepreneurship/collegiate-brands/): B2C consumer-focused business are invited to compete
 * [2 March] [Idea Accelerator](https://www.terry.uga.edu/entrepreneurship/uga-accelerator/): prepare students for the next step in their business development
-* [2 March] [Quick Pitch](https://www.terry.uga.edu/entrepreneurship/quick-pitch/): 90-second pitch to a panel of judges from any stage of a company
 * [3 March] [Next Top Entrepreneur](https://www.terry.uga.edu/entrepreneurship/next-top-entrepreneur/): pitch comp open to student startup teams from all over the country
 * [2 April] [Student Industry Fellows](https://el.uga.edu/students/student-industry-fellows-program/): cultivates innovation competencies among UGA students
 * [2 June] [Build Test Accelerator](https://www.terry.uga.edu/entrepreneurship/build-test-accelerator/): test your major product or customer assumptions
