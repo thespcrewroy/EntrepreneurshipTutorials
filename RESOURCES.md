@@ -49,6 +49,11 @@
 * [Elon Musk](https://www.marieclaire.com/sex-love/a5380/millionaire-starter-wife/): take advantage of wealth
 * [Jefferey Epstein](https://www.forbes.com/sites/giacomotognini/2025/07/25/how-jeffrey-epstein-got-so-rich/): how billionare class gets rich
 
+## Resources
+* [AthensMade](https://www.visitathensga.com/listing/athensmade/623/): accelerating entrepreneurship in Athens, GA with free wine and food
+* [Georgia Kickstart Program](https://gakickstartfund.uga.edu/): student-managed venture capital fund that invests in student-run businesses
+* [UGA I-Corps](https://ugaicorps.uga.edu/): providing hands-on training to UGA faculty and students through its six-week Accelerator
+
 ## Side Hustles
 * [Knack](https://www.joinknack.com/): scale peer tutoring platform
 * [OutlierAI](https://outlier.ai/): AI training platform
