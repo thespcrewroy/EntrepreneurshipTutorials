@@ -13,6 +13,7 @@
 * **Odoo**: open source ERP and CRM
 
 ## Business Administration
+* **Gartner:** leading global research and advisory company that helps businesses and government agencies make data-driven decisions
 * **Powerpoint:** presentation software application by Microsoft used to create slide-based visual presentations
     * **Think Cell:** a PowerPoint add-in that streamlines the creation of professional charts, graphs, and data-driven presentations
 * **Enterprise Resource Planning (ERP):** type of software that businesses use to connect and manage their core daily operations
