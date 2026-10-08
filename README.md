@@ -74,7 +74,7 @@
 * **Alibaba:** global B2B e-comm market that connects businesses with manufacturers, wholesalers, and suppliers
 
 ## Marketing
-* **AWS Simple Messaging Service (SMS):** a fully managed messaging service by AWS used to send notifications and enable pub/sub comms
+* **AWS Simple Messaging Service (SMS):** a fully managed messaging service by AWS used to send notifications and comms
 * **AWS Simple Email Service (SES):** a cloud-based email service by Amazon used to send, receive, and emails at scale
 * **[Adcreative.ai](https://www.adcreative.ai/):** generate ad banners, texts, photoshoots, and video advertisements using AI
 * **[Google Gemini Pomelli](http://labs.google/fx/tools/pomelli):** marketing tool, personal brand generation, social campaigns
