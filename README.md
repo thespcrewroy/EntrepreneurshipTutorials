@@ -21,12 +21,35 @@
 * **Excel:** a spreadsheet application by Microsoft used for organizing, analyzing, calculating, and visualizing data
 
 ## Finance
+- **Banking:** institutions and services that manage money, accept deposits, provide loans, process payments, and offer other
+    - **Capital One:** financial services company offering credit cards, checking and savings accounts, loans, and digital banking
+    - **Chase:** banking division of JPMorgan Chase offering checking and savings accounts, credit cards, loans, and investment services
+    - **Discover:** financial services brand offering credit cards, banking products, and lending services, now owned by Capital One
+    - **Citi:** global financial services company offering banking, credit cards, investment services, and wealth management
+    - **Wells Fargo:** multinational financial services company offering banking, credit cards, mortgages, loans, and investment services
 - **Point of Sale (POS):** used to ring up sales, process payments, and track inventory
+- **Payment Networks:** systems that connect financial institutions, merchants, and consumers to authorize transactions
+    - **Mastercard:** global payment network that processes credit, debit, and prepaid card transactions
+    - **Visa:** global payment network that processes credit, debit, and prepaid card transactions
+    - **American Express:** financial services company that operates a payment network and issues credit and charge cards 
 - **FinTech (Financial Technologies):** technology used to provide and manage financial services
    - **Automated Clearing House (ACH):** secure electronic network used to move money directly between bank accounts
    - **PayPal**: complementor and catalyst that is an online platform for sending, receiving, and processing payments
    - **FiServ:** catalyst that provides banking software, payment processing, and POS for banks, credit unions, and businesses
    - **Instant Payments:** electronic money transfer that clears and settles between bank accounts in mere second
+   - **Betterment:** automated investment platform and robo-advisor that manages portfolios and offers financial planning services
+   - **Wealthfront:** automated investment platform and robo-advisor that provides portfolio, management and financial planning
+   - **Ally Bank:** online bank offering checking, savings, CDs, and other banking services
+   - **Chime:** financial technology company that partners with banks to provide mobile banking services
+   - **Apple Pay:** digital wallet and mobile payment service by Apple that enables contactless payments in stores, apps, and websites
+   - **Google Pay:** digital payment service by Google that enables online, in-app, and contactless payments
+   - **PayPal:** digital payment platform that allows individuals and businesses to send, receive, and process payments
+   - **SoFi:** digital financial services company offering banking, loans, investing, and other personal finance products
+- **Investment Management:** professional management of financial assets to help individuals and institutions grow their wealth
+    - **Bloomberg:** financial information and technology company providing market data, financial news, analytics, and trading tool
+    - **MarketWatch:** financial news and market data platform that provides stock prices, investment analysis, and economic news
+    - **Vanguard:** investment management company offering low-cost index funds, ETFs, mutual funds, and retirement accounts
+    - **Fidelity:** financial services company offering brokerage accounts, investment funds, retirement planning, and wealth management
 
 ## Supply Chain
 * **Celonis:** a process mining and execution management platform that analyzes business processes to optimize them
