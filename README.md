@@ -21,6 +21,12 @@
 * **Excel:** a spreadsheet application by Microsoft used for organizing, analyzing, calculating, and visualizing data
 
 ## Finance
+- **Cryptocurrency:** decentralized digital technologies used to record transactions, tokenize assets, transfer value, etc.
+   - **BlackRock BUIDL:** tokenized investment fund that uses blockchain tech to provide access to U.S. Treasury securities
+   - **JPMorgan Kinexys:** blockchain-based financial infrastructure platform that enables institutional payments, settlement, etc.
+   - **DTCC Tokenization Initiatives:** efforts to use blockchain technology to tokenize securities and improve financial infrastructure
+   - **SWIFT:** efforts to enable interoperability and transfers of tokenized bank deposits across financial institutions
+   - **Stablecoin:** cryptocurrencies designed to maintain a stable value by pegging their price the U.S. dollar
 - **Banking:** institutions and services that manage money, accept deposits, provide loans, process payments, etc.
     - **Capital One:** financial services company offering credit cards, checking and savings accounts, loans, and digital banking
     - **Chase:** banking division of JPMorgan Chase offering checking and savings accounts, credit cards, loans, and investment services
@@ -29,17 +35,25 @@
     - **Wells Fargo:** multinational financial services company offering banking, credit cards, mortgages, loans, and investment services
     - **Ally Bank:** online bank offering checking, savings, CDs, and other banking services
     - **HappenBank:** digital bank and financial services company offering personal loans, savings, and other banking products
+    - **Venmo:** mobile payment platform owned by PayPal that allows users to send, receive, and request money
+    - **North:** provides merchant services, payment processing, and POS solutions
+    - **FiServ:** catalyst that provides banking software, payment processing, and POS for banks, credit unions, etc.
+    - **FIS:** financial tech company providing core banking software, financial infra, and payment solutions
+    - **Jack Henry:** providing core banking systems, digital banking, and payment solutions for banks and credit unions
+    - **Finastra:** financial software company providing core banking, lending, payments, and treasury management solutions
+    - **Finzly:** financial technology company providing API-based payment infrastructure and banking modernization solutions
 - **Point of Sale (POS):** used to ring up sales, process payments, and track inventory
 - **Payment Networks:** systems that connect financial institutions, merchants, and consumers to authorize transactions
     - **Mastercard:** global payment network that processes credit, debit, and prepaid card transactions
     - **Visa:** global payment network that processes credit, debit, and prepaid card transactions
-    - **American Express:** financial services company that operates a payment network and issues credit and charge cards 
+    - **American Express:** financial services company that operates a payment network and issues credit and charge cards
+    - **JCB Co. Ltd:** Japanese payment network and card issuer that enables credit and debit card transactions worldwide
+    - **UnionPay:** Chinese payment network that enables credit and debit card transactions domestically and internationally
 - **FinTech (Financial Technologies):** technology used to provide and manage financial services
    - **Apple Wallet:** digital wallet application that stores payment cards, tickets, passes, and digital IDs
    - **Google Wallet:** digital wallet application that stores payment cards, tickets, passes, and digital IDs
    - **Automated Clearing House (ACH):** secure electronic network used to move money directly between bank accounts
    - **PayPal**: complementor and catalyst that is an online platform for sending, receiving, and processing payments
-   - **FiServ:** catalyst that provides banking software, payment processing, and POS for banks, credit unions, and businesses
    - **Instant Payments:** electronic money transfer that clears and settles between bank accounts in mere second
    - **Chime:** financial technology company that partners with banks to provide mobile banking services
    - **Apple Pay:** digital wallet and mobile payment service by Apple that enables contactless payments
@@ -57,6 +71,7 @@
 ## Supply Chain
 * **Celonis:** a process mining and execution management platform that analyzes business processes to optimize them
 * **[USADrop:](https://usadrop.com/)** supplier and inventory manager for dropshipping businesses
+* **Alibaba:** global B2B e-comm market that connects businesses with manufacturers, wholesalers, and suppliers
 
 ## Marketing
 * **AWS Simple Messaging Service (SMS):** a fully managed messaging service by AWS used to send notifications and enable pub/sub comms
