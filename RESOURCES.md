@@ -64,6 +64,7 @@
 * [BRCE](https://www.brce.shop/?srsltid=AfmBOoqd8g7iKZMGj9sFWpIEDBeX9i7S44aOyFGpp22TzYxhG-yalX-s)
 * [Progress](https://neurofore.ai/progress/)
 * [Metopi](https://metopipharma.com/)
+* [Wedding Weekender](https://weddingweekender.com/)
 
 ## Newsletters
 * [Financial Times](https://www.ft.com/): an international news organization for business, finance, economics, and global affairs.
