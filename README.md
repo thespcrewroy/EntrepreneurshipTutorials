@@ -17,6 +17,7 @@
 * **Gartner:** leading global research and advisory company that helps businesses and government agencies make data-driven decisions
 * **Powerpoint:** presentation software application by Microsoft used to create slide-based visual presentations
     * **Think Cell:** a PowerPoint add-in that streamlines the creation of professional charts, graphs, and data-driven presentations
+    * **Visio:** limited templates for general diagrams and basic flowcharts 
 * **Enterprise Resource Planning (ERP):** type of software that businesses use to connect and manage their core daily operations
 * **FigSlides:** allows users to create and collaborate on slide presentations
 * **Excel:** a spreadsheet application by Microsoft used for organizing, analyzing, calculating, and visualizing data
