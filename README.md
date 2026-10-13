@@ -2,6 +2,7 @@
 
 ## Entrepreneurship
 * **FigJam:** whiteboard that empowers teams to build better products together
+* **Prezi:** an interactive platform to bring the slides you have or describe what you're covering
 * **[Google Gemini Mixboard](https://labs.google.com/mixboard/welcome):** useful for generating prototypes
 * **[Tech Alpharetta Innovation Center](https://techalpharetta.com/startups/):** technology incubator and coworking hub that supports startups
 * **Claude CoWork:** Anthropic's agentic AI workspace that autonomously handles complex multi-step knowledge tasks
