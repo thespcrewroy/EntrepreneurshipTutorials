@@ -82,14 +82,16 @@
 * **Canva:** an online graphic design platform that enables users to create visual content for a variety of design reasons
 * **FigBuzz:** AI-enhanced marketing content creator designed to help teams produce brand assets quickly
 * **Mailchimp:** an email marketing and automation platform used to create campaigns, manage audiences, and track marketing performance
-* **QuickTime Player:** Apple’s multimedia player and screen recording application for playing, recording, and editing audio and video files
+* **QuickTime Player Pro:** Apple’s multimedia player and screen recording app for playing, recording, and editing audio and video files
+* **Apple Final Cut Pro:** professional non-linear video editing software
 * **OBS Studio:** open-source software application used for screen recording, live streaming, and real-time video production
 * **Adobe:** a software company known for creative and digital media tools
-    * **Illustrator:** vector graphics design software used for creating illustrations, logos, icons, and scalable artwork.
+    * **InDesign:** desktop publishing and page layout app for magazines, books, brochures, posters, and interactive PDFs
+    * **Illustrator:** vector graphics design software used for creating illustrations, logos, icons, and scalable artwork
     * **After Effects:** motion graphics and visual effects software used for animation, compositing, and video post-production
-    * **Premiere Pro:** professional video editing software used for editing, producing, and exporting multimedia content.
-    * **Lightroom:** photo editing and management software used for organizing, enhancing, and processing digital images.
-    * **Photoshop:** digital imaging and graphic design software used for photo editing, compositing, and visual content creation.
+    * **Premiere Pro:** professional video editing software used for editing, producing, and exporting multimedia content
+    * **Lightroom:** photo editing and management software used for organizing, enhancing, and processing digital images
+    * **Photoshop:** digital imaging and graphic design software used for photo editing, compositing, and visual content creation
 * **iMovie:** Apple’s video editing software for creating and editing movies, trailers, and multimedia projects on macOS and iOS
 * **Capcut:** video editing application used for creating, editing, and enhancing short-form and long-form video content
 * **Davinci Resolve:** professional video editing and color grading software used for editing, visual effects, and audio production
@@ -97,6 +99,7 @@
 * **CameraDecision:** platform to compare bought cameras against market juggernaughts
 * **Pushbullet:** cross-device file-sharing service that syncs messages, links, and alerts between computers and mobile devices
 * **Microsoft Windows Server:** remote access and server management solution used to access Windows systems and services
+* **Avid Pro Tools:** a pioneering digital audio workstation (DAW) that includes 60 virtual instruments 
 
 ## Sales
 * **[Dropship.io](https://www.dropship.io/):** research current products that have the highest market value
