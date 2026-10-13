@@ -63,7 +63,7 @@
 - **Investing:** buying, selling, managing, and researching financial assets to build wealth or generate returns
     - **Betterment:** automated investment platform and robo-advisor that manages portfolios and offers financial planning services
     - **Wealthfront:** automated investment platform and robo-advisor that provides portfolio, management and financial planning
-    - **Bloomberg:** financial information and technology company providing market data, financial news, analytics, and trading tool
+    - **Bloomberg Terminal:** financial infotech company providing market data, financial news, analytics, and trading tool
     - **MarketWatch:** financial news and market data platform that provides stock prices, investment analysis, and economic news
     - **Vanguard:** investment management company offering low-cost index funds, ETFs, mutual funds, and retirement accounts
     - **Fidelity:** financial services company offering brokerage accounts, investment funds, retirement planning, and wealth management
