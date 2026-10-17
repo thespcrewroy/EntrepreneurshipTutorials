@@ -65,6 +65,7 @@
 * [Progress](https://neurofore.ai/progress/)
 * [Metopi](https://metopipharma.com/)
 * [Wedding Weekender](https://weddingweekender.com/)
+* [EZCollegeApp](https://ezcollegeapp.com/)
 
 ## Newsletters
 * [Financial Times](https://www.ft.com/): an international news organization for business, finance, economics, and global affairs.
