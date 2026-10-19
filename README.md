@@ -23,6 +23,10 @@
 * **Excel:** a spreadsheet application by Microsoft used for organizing, analyzing, calculating, and visualizing data
 
 ## Finance
+- **Crowdfunding:** raising money for a project, product, or cause through many small contributions from the public
+    - **Kickstarter:** an all-or-nothing crowdfunding platform for creative projects and new products, where backers get rewards
+    - **Indiegogo:** a crowdfunding platform for new products and tech, offering both fixed and flexible funding
+    - **GoFundMe:** a donation-based crowdfunding platform for personal causes, emergencies, and charities
 - **Cryptocurrency:** decentralized digital technologies used to record transactions, tokenize assets, transfer value, etc.
    - **BlackRock BUIDL:** tokenized investment fund that uses blockchain tech to provide access to U.S. Treasury securities
    - **JPMorgan Kinexys:** blockchain-based financial infrastructure platform that enables institutional payments, settlement, etc.
