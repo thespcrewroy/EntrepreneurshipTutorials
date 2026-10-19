@@ -108,6 +108,15 @@
 * **Customer Relationship Management (CRM):** a system or strategy used to manage a company’s interactions, relationships, and data
      * **Salesforce:** a cloud-based CRM platform used to manage sales, customer service, marketing, and business workflows
      * **Hubspot:** a marketing automation platform that helps businesses manage sales, customer service, and inbound marketing
+* **Online Marketplaces:** platforms where businesses and freelancers list products or services for buyers to find
+     * **Etsy:** an online marketplace for handmade, vintage, and digital goods
+     * **Fiverr:** a freelance marketplace where sellers offer fixed-price service packages ("gigs")
+     * **Upwork:** a freelance marketplace where clients post jobs and freelancers bid on projects
+* **Creator Monetization:** platforms that let creators earn money directly from fans and supporters
+     * **Cameo:** a platform where fans pay celebrities and creators for personalized video messages
+     * **Buy Me a Coffee:** a platform where supporters send creators one-time tips or memberships
+     * **Ko-fi:** a platform for creator tips, memberships, commissions, and digital shop sales
+     * **Patreon:** a membership platform where fans pay creators recurring subscriptions for exclusive content
 * **Stripe:** payment invoice processing software
 
 ## Accounting
