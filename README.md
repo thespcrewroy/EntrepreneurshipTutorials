@@ -75,6 +75,8 @@
     - **Fidelity:** financial services company offering brokerage accounts, investment funds, retirement planning, and wealth management
 
 ## Supply Chain
+* **UPS:** global shipping and logistics company that delivers packages and freight
+* **DPD:** international parcel delivery service, mainly operating in Europe
 * **Celonis:** a process mining and execution management platform that analyzes business processes to optimize them
 * **[USADrop:](https://usadrop.com/)** supplier and inventory manager for dropshipping businesses
 * **Alibaba:** global B2B e-comm market that connects businesses with manufacturers, wholesalers, and suppliers
@@ -109,6 +111,7 @@
 
 ## Sales
 * **[Dropship.io](https://www.dropship.io/):** research current products that have the highest market value
+* **Helium 10:** a suite of tools for Amazon sellers covering product research, idea validation, and keyword research
 * **Customer Relationship Management (CRM):** a system or strategy used to manage a company’s interactions, relationships, and data
      * **Salesforce:** a cloud-based CRM platform used to manage sales, customer service, marketing, and business workflows
      * **Hubspot:** a marketing automation platform that helps businesses manage sales, customer service, and inbound marketing
