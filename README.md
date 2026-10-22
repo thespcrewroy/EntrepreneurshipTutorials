@@ -1,6 +1,7 @@
 # Business Tutorials
 
 ## Entrepreneurship
+* **[Strategyzer](https://www.strategyzer.com/):** business model and strategy tools including the Business Model Canvas
 * **Miro:** AI innovation workspace where teams of any size can dream, design, and build their future together.
 * **FigJam:** whiteboard that empowers teams to build better products together
 * **Prezi:** an interactive platform to bring the slides you have or describe what you're covering
