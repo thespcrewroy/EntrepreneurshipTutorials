@@ -16,7 +16,7 @@
 ## College Courses
 * Introduction to Personal Finance (FHCE 3200)
 * Innovation Catalyst and Design (IDEA 4000)
-* [Introduction to Entrepnreurship (ENTR 5500)](https://quizlet.com/user/royswapnil07/folders/intro-to-entrepreneurship-entr-5500)
+* Introduction to Entrepnreurship (ENTR 5500)
 * Financing the Entrepreneurial Venture (ENTR 5505)
 
 ## Communities
