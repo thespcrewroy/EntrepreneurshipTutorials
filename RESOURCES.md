@@ -24,6 +24,7 @@
     * [Startup Oasis](https://discord.gg/x8wE6dPPMm)
     * [BullDog Economics](https://discord.gg/9KWyEceXD3)
     * [Terry College of Business](https://discord.gg/bU8KPVvE94)
+* [Tech Alpharetta Innovation Center](https://techalpharetta.com/startups/): technology incubator and coworking hub that supports startups
  
 ## Conferences and Events
 * [2 August] [FinTech South](https://www.fintechsouth.com/): where innovators are building solutions for the biggest challenges in payments and banking
