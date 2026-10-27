@@ -107,6 +107,8 @@
     - **[Mailchimp](https://mailchimp.com/)**: email marketing and automation platform for creating campaigns
 - **Graphic Design**
     - **[Canva](https://www.canva.com/)**: online graphic design platform for creating visual content of all kinds
+- **Product Launch Platform**
+    - **[Open-Launch](https://github.com/openlaunch-org/Open-Launch)**: open-source Product Hunt alternative for launching and upvoting tech products
 - **Screen Recording**
     - **[OBS Studio](https://obsproject.com/)**: open-source software for screen recording, live streaming, and real-time video production
     - **[QuickTime Player](https://support.apple.com/guide/quicktime-player/welcome/mac)**: Apple's built-in Mac app for playing, recording, and trimming audio and video
