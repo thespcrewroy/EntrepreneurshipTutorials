@@ -47,6 +47,7 @@
     - **Photo Editing**: enhancing, retouching, and organizing digital photos
     - **Vector Graphics**: creating scalable artwork such as logos and icons from paths instead of pixels
 - **Motion Graphics**: animated graphic design and visual effects for video
+- **Product Launch Platform**: site where makers launch new products for community discovery, upvotes, and feedback
 - **Screen Recording**: capturing a computer screen as video for tutorials, demos, or live streams
 - **SMS Marketing**: sending promotions and notifications to customers by text message
 - **Video Editing**: cutting, arranging, color grading, and exporting video footage
