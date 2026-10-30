@@ -68,6 +68,9 @@
 * [Metopi](https://metopipharma.com/)
 * [Wedding Weekender](https://weddingweekender.com/)
 * [EZCollegeApp](https://ezcollegeapp.com/)
+* [Rosslite](https://rossilite.com/)
+* [SpotrCars](https://spotrcars.com/)
+* [EZApply](https://easyapply.com/)
 
 ## Newsletters
 * [Financial Times](https://www.ft.com/): an international news organization for business, finance, economics, and global affairs.
