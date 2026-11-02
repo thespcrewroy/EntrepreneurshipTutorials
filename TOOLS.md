@@ -38,6 +38,8 @@
     - **[Strategyzer](https://www.strategyzer.com/)**: business model and strategy tools, including the Business Model Canvas
 - **Prototyping**
     - **[Google Gemini Mixboard](https://labs.google.com/mixboard/welcome)**: AI concept board for generating product ideas and prototypes
+- **Venture Capital**
+    - **[YCombinator](https://www.ycombinator.com/apply)**: created a new model for funding early stage startups
 - **Whiteboarding**
     - **[FigJam](https://help.figma.com/hc/en-us/categories/1500004737641)**: Figma's online whiteboard for brainstorming and planning products together
     - **[Miro](https://miro.com/)**: AI-powered visual workspace where teams brainstorm, design, and plan together
