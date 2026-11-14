@@ -18,7 +18,7 @@
 * Innovation Catalyst and Design (IDEA 4000)
 * Principles of FinTech (BUSN 3700)
 * ⭐️ [Introduction to Entrepnreurship (ENTR 5500)](https://quizlet.com/user/royswapnil07/folders/introduction-to-entrepreneurship-entr-5500)
-* ⭐️ [Financing the Entrepreneurial Venture (ENTR 5505)](https://quizlet.com/user/royswapnil07/folders/funding-the-entrepreneurial-venture-entr-5505) | [Supplemental](https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture)
+* ⭐️ [Financing the Entrepreneurial Venture (ENTR 5505)](https://tinyurl.com/mt6n9mmk) | [Supplemental](https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture)
 
 ## Communities
 * Discord Groups
