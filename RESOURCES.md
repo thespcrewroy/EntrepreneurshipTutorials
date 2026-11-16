@@ -57,31 +57,31 @@
 * [4 June] [Summer Launch Program](https://www.terry.uga.edu/entrepreneurship/summer-launch-program/): team ready to actively launch their business between semesters
 
 ## Examples
-* [NVidia Brev](https://brev.dev/)
-* [ClaireJo.co Clair Jordan Branding Design Consulting](https://www.clairejo.co/)
-* [Kamoku.Tech Zion Basque Cyber Security Consulting](https://kamoku.tech/)
-* [Cake for Dinner](https://cakefordinner.com/)
-* [MoonTrace](https://moontrace.mailchimpsites.com/)
-* [Codefoli](https://codefoli.com/)
-* [Tranquil](https://projects.nmi.cool/2023/nmc/tranquil/)
-* [RoboMaze](https://robomaze.org/)
 * [BRCE](https://www.brce.shop/?srsltid=AfmBOoqd8g7iKZMGj9sFWpIEDBeX9i7S44aOyFGpp22TzYxhG-yalX-s)
-* [Progress](https://neurofore.ai/progress/)
-* [Metopi](https://metopipharma.com/)
-* [Wedding Weekender](https://weddingweekender.com/)
+* [Cake for Dinner](https://cakefordinner.com/)
+* [ClaireJo.co Clair Jordan Branding Design Consulting](https://www.clairejo.co/)
+* [Codefoli](https://codefoli.com/)
+* [EZApply](https://easyapply.com/)
 * [EZCollegeApp](https://ezcollegeapp.com/)
+* [Kamoku.Tech Zion Basque Cyber Security Consulting](https://kamoku.tech/)
+* [Metopi](https://metopipharma.com/)
+* [MoonTrace](https://moontrace.mailchimpsites.com/)
+* [NVidia Brev](https://brev.dev/)
+* [Progress](https://neurofore.ai/progress/)
+* [RoboMaze](https://robomaze.org/)
 * [Rosslite](https://rossilite.com/)
 * [SpotrCars](https://spotrcars.com/)
-* [EZApply](https://easyapply.com/)
+* [Tranquil](https://projects.nmi.cool/2023/nmc/tranquil/)
+* [Wedding Weekender](https://weddingweekender.com/)
 
 ## Newsletters
-* [Financial Times](https://www.ft.com/): an international news organization for business, finance, economics, and global affairs.
-* [Morning Brew](https://www.morningbrew.com/daily): digital media company best known for its business and technology news newsletter for students
-* [YCombinator Hacker News](https://news.ycombinator.com/news): social news focused on technology, startups, programming, and entrepreneurship
-* [Ground News](https://ground.news/): news aggregation platform that compares reporting sources and political biases
-* [Outdoor Boys](https://www.deseret.com/education/2026/05/22/outdoor-boys-youtube-luke-nichols-speak-george-mason-law-school-graduates/): graduate speech
 * [Elon Musk](https://www.marieclaire.com/sex-love/a5380/millionaire-starter-wife/): take advantage of wealth
+* [Financial Times](https://www.ft.com/): an international news organization for business, finance, economics, and global affairs.
+* [Ground News](https://ground.news/): news aggregation platform that compares reporting sources and political biases
 * [Jefferey Epstein](https://www.forbes.com/sites/giacomotognini/2025/07/25/how-jeffrey-epstein-got-so-rich/): how billionare class gets rich
+* [Morning Brew](https://www.morningbrew.com/daily): digital media company best known for its business and technology news newsletter for students
+* [Outdoor Boys](https://www.deseret.com/education/2026/05/22/outdoor-boys-youtube-luke-nichols-speak-george-mason-law-school-graduates/): graduate speech
+* [YCombinator Hacker News](https://news.ycombinator.com/news): social news focused on technology, startups, programming, and entrepreneurship
 
 ## Resources
 * [AthensMade](https://www.visitathensga.com/listing/athensmade/623/): accelerating entrepreneurship in Athens, GA with free wine and food
@@ -94,6 +94,6 @@
 * [UGA I-Corps](https://ugaicorps.uga.edu/): providing hands-on training to UGA faculty and students through its six-week Accelerator
 
 ## Side Hustles
+* [DataAnnotation](https://www.dataannotation.tech/): AI training competitor
 * [Knack](https://www.joinknack.com/): scale peer tutoring platform
 * [OutlierAI](https://outlier.ai/): AI training platform
-* [DataAnnotation](https://www.dataannotation.tech/): AI training competitor
