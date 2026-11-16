@@ -58,6 +58,7 @@
 
 ## Examples
 * [NVidia Brev](https://brev.dev/)
+* [ClaireJo.co Clair Jordan Branding Design Consulting](https://www.clairejo.co/)
 * [Kamoku.Tech Zion Basque Cyber Security Consulting](https://kamoku.tech/)
 * [Cake for Dinner](https://cakefordinner.com/)
 * [MoonTrace](https://moontrace.mailchimpsites.com/)
