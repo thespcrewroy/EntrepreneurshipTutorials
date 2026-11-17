@@ -74,7 +74,7 @@
 * Beginning Bowling (PEDB 1080)
 * Outdoor Adventure Activities (PEDB 1090)
 * Beginning Backpacking - Hiking (PEDB 1100)
-* Intermediate Gold (PEDB 1130)
+* Intermediate Golf (PEDB 1130)
 * Self Defense (PEDB 1150)
 * Soccer (PEDB 1270)
 * Ultimate (PEDB 1280)
@@ -89,7 +89,6 @@
 * Creative Dance for Wellbeing (PEDB 1609)
 * Accelerated Elementary Spanish (SPAN 1110E)
 * Intermediate Spanish 1 (SPAN 2001)
-
 
 ## Communities
 * Discord Groups
