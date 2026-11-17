@@ -6,6 +6,7 @@
 * Certified Internal Auditor (CIA)
 * Certified Management Accountant (CMA)
 * Certified Public Accountant (CPA)
+* Microsoft Office Speacialist: Expert
 * Project Management Professional (PMP)
 * Society for Human Resource Management (SHRM-CP)
 
