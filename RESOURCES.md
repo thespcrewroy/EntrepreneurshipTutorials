@@ -1,24 +1,95 @@
 # Entrepreneurship Resources
 
 ## Certifications
-* Actuary Examination P (Probability)
-* Actuary Examination FM (Financial Mathematics)
-* Actuary Examination FAM (Fundamentals of Actuarial Mathematics)
-* Actuary Examination ALTAM (Advanced Long-Term Actuarial Mathematics)
-* Actuary Examination ASTAM (Advanced Short-Term Actuarial Mathematics)
-* Actuary Examination SRM (Statistics for Risk Modeling)
-* Actuary Examination PA (Predictive Analytics)
-* Actuary Examination ATPA (Advanced Topics in Predictive Analysis)
 * Certified Financial Planner (CFP)
 * Certified Public Accountant (CPA)
 * Chartered Financial Analyst (CFA)
 
+## College Majors
+* Finance
+* Management Information Systems
+* International Business Co-Major
+
+## College Minors
+* Business
+* International Affairs
+* Language:
+    * African Languages and Literature
+    * American Sign Langauge (ASL)
+    * Asian Language and Literature
+    * Chinese Language and Literature
+    * Classical Culture
+    * Classics and Comparative Cultures
+    * Comparative Literature
+    * French
+    * French Studies
+    * German
+    * Greek
+    * Italian
+    * Japanese Language and Literature
+    * Korean Language and Literature
+    * Latin
+    * Latinx Studies
+    * Portuguese
+    * Spanish
+    * Teaching English to Speakers of Other Languages (TESOL)
+    * Vietnamese Language and Literature
+
+## College Certificates
+* Asian Studies
+* English to Speakers of Other Languages (ESOL)
+* FinTech Certificate
+* Peace Corps Certificate Program
+* Student Industry Fellows Program
+
 ## College Courses
-* Introduction to Personal Finance (FHCE 3200)
-* Innovation Catalyst and Design (IDEA 4000)
+* Principles of Accounting (ACCT 2101)
+* Beginning Horsemanship (ADSC 2500L)
 * Principles of FinTech (BUSN 3700)
+* Principles of Microeconomics (ECON 2106)
+* Engineering Entrepreneurship (ENGR 4545)
+* Cali Brutz Startup Investing (ENTR 4505)
 * ⭐️ [Introduction to Entrepnreurship (ENTR 5500)](https://quizlet.com/user/royswapnil07/folders/introduction-to-entrepreneurship-entr-5500)
 * ⭐️ [Financing the Entrepreneurial Venture (ENTR 5505)](https://tinyurl.com/mt6n9mmk) | [Supplemental](https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture)
+* Managing the Entrepreneurial Venture (ENTR 5525)
+* Cali Brutz Special Topics in Entrepreneurship: AI & The Entrepreneur (ENTR 5000)
+* Cali Brutz Franchising (ENTR 5430)
+* LEARN: Entrepreneurial Thinking in Arts and Sciences (FCID 4001)
+* Introduction to Personal Finance (FHCE 3200)
+* Financial Management (FINA 3001)
+* Innovation Catalyst and Design (IDEA 4000)
+* Industry Leaders Fellows Project (IDEA 4020)
+* Legal and Regulatory Environment of Business (LEGL 2700)
+* FinTech and Financial Services Law (LEGL 4700)
+* Principles of Marketing (MARK 3001)
+* Principles of Management (MGMT 3001)
+* Introduction to Information Systems and Artificial Intelligence in Business (MIST 2090)
+* Financial Services Technology (MIST 4700)
+* Internship in FinTech (MIST 4803)
+* Introduction to Marine Policy (MARS 4400)
+* Ocean Innovation and Entrepreneurship (MARS 4700)
+* Beginning Badminton (PEDB 1020)
+* Beginning Basketball (PEDB 1040)
+* Challenge Course (PEDB 1070)
+* Beginning Bowling (PEDB 1080)
+* Outdoor Adventure Activities (PEDB 1090)
+* Beginning Backpacking - Hiking (PEDB 1100)
+* Intermediate Gold (PEDB 1130)
+* Self Defense (PEDB 1150)
+* Soccer (PEDB 1270)
+* Ultimate (PEDB 1280)
+* Pickleball (PEDB 1340)
+* Intermediate Volleyball (PEDB 1390)
+* Weight Training (PEDB 1400)
+* Introduction to Tap Dance (PEDB 1601)
+* Introduction to Jazz Dance (PEDB 1604)
+* Introduction to Contemporary Modern Dance (PEDB 1605)
+* Introduction to Ballet (PEDB 1606)
+* Introduction to Ballroom Dance Lead Male (PEDB 1607)
+* Creative Dance for Wellbeing (PEDB 1609)
+* Accelerated Elementary Spanish (SPAN 1110E)
+* Intermediate Spanish 1 (SPAN 2001)
+
 
 ## Communities
 * Discord Groups
