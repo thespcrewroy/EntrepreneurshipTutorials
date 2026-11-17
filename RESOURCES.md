@@ -1,14 +1,18 @@
 # Entrepreneurship Resources
 
 ## Certifications
-* Certified Financial Planner (CFP)
-* Certified Public Accountant (CPA)
 * Chartered Financial Analyst (CFA)
+* Certified Financial Planner (CFP)
+* Certified Internal Auditor (CIA)
+* Certified Management Accountant (CMA)
+* Certified Public Accountant (CPA)
+* Project Management Professional (PMP)
+* Society for Human Resource Management (SHRM-CP)
 
 ## College Majors
 * Finance
-* Management Information Systems
 * International Business Co-Major
+* Management Information Systems
 
 ## College Minors
 * Business
@@ -36,12 +40,19 @@
     * Vietnamese Language and Literature
 
 ## College Certificates
+* Actuarial Science
 * Asian Studies
 * English to Speakers of Other Languages (ESOL)
-* FinTech Certificate
+* Entrepreneurship
+* FinTech
+* Leadership Fellows
+* Legal Studies
+* Music Business
 * Peace Corps Certificate Program
 * Student Industry Fellows Program
-* TedxUGA High Impact Presentations Program @ Gwinnett
+* Sustainability
+* TedxUGA High Impact Presentations Certificate @ Gwinnett
+* Workforce Management
 
 ## College Courses
 * Principles of Accounting (ACCT 2101)
@@ -55,16 +66,19 @@
 * Principles of Microeconomics (ECON 2106)
 * Engineering Entrepreneurship (ENGR 4545)
 * Cali Brutz Startup Investing (ENTR 4505)
+* Special Topics in Entrepreneurship: AI & The Entrepreneur (ENTR 5000)
 * ⭐️ [Introduction to Entrepnreurship (ENTR 5500)](https://quizlet.com/user/royswapnil07/folders/introduction-to-entrepreneurship-entr-5500)
 * ⭐️ [Financing the Entrepreneurial Venture (ENTR 5505)](https://tinyurl.com/mt6n9mmk) | [Supplemental](https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture)
 * Managing the Entrepreneurial Venture (ENTR 5525)
-* Special Topics in Entrepreneurship: AI & The Entrepreneur (ENTR 5000)
 * Franchising (ENTR 5430)
 * LEARN: Entrepreneurial Thinking in Arts and Sciences (FCID 4001)
 * Introduction to Personal Finance (FHCE 3200)
 * Financial Management (FINA 3000/3001)
 * Innovation Catalyst and Design (IDEA 4000)
 * Industry Leaders Fellows Project (IDEA 4020)
+* Leadership and Personal Development (ILAD 4100)
+* Personal Career Management and Service Learning (ILAD 5000S)
+* Service-Learning Project Management (ILAD 5010S)
 * Legal and Regulatory Environment of Business (LEGL 2700)
 * FinTech and Financial Services Law (LEGL 4700)
 * Principles of Marketing (MARK 3000/3001)
