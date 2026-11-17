@@ -91,10 +91,10 @@
 * Intermediate Spanish 1 (SPAN 2001)
 
 ## Communities
-* Discord Groups
-    * [Startup Oasis](https://discord.gg/x8wE6dPPMm)
-    * [BullDog Economics](https://discord.gg/9KWyEceXD3)
-    * [Terry College of Business](https://discord.gg/bU8KPVvE94)
+* Discord
+    * [Startup Oasis](https://discord.gg/x8wE6dPPMm): founder-focused entrepreneurship community co-founded by UGA alumnus Maddox and Martin
+    * [BullDog Economics](https://discord.gg/9KWyEceXD3): student oriented community centered around economic discussions and coursework
+    * [Terry College of Business](https://discord.gg/bU8KPVvE94): student oriented community centered around Business majors at Terry
 * [Tech Alpharetta Innovation Center](https://techalpharetta.com/startups/): technology incubator and coworking hub that supports startups
  
 ## Conferences and Events
