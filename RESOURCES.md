@@ -42,6 +42,7 @@
 
 ## College Certificates
 * Asian Studies
+* Computer Science
 * English to Speakers of Other Languages (ESOL)
 * Entrepreneurship
 * FinTech
