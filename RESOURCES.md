@@ -71,6 +71,7 @@
 * Introduction to Econometrics (ECON 4750)
 * Engineering Entrepreneurship (ENGR 4545)
 * Cali Brutz Startup Investing (ENTR 4505)
+* Design Thinking (ENTR 5090)
 * ⭐️ [Introduction to Entrepnreurship (ENTR 5500)](https://quizlet.com/user/royswapnil07/folders/introduction-to-entrepreneurship-entr-5500)
 * ⭐️ [Financing the Entrepreneurial Venture (ENTR 5505)](https://tinyurl.com/mt6n9mmk) | [Supplemental](https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture)
 * Managing the Entrepreneurial Venture (ENTR 5525)
