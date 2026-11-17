@@ -41,6 +41,7 @@
     * Vietnamese Language and Literature
 
 ## College Certificates
+* Artificial Intelligence
 * Asian Studies
 * Computer Science
 * English to Speakers of Other Languages (ESOL)
