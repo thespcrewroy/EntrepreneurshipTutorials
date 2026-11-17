@@ -178,6 +178,7 @@
 * [YCombinator Hacker News](https://news.ycombinator.com/news): social news focused on technology, startups, programming, and entrepreneurship
 
 ## Resources
+* [48 Laws of Power](https://www.penguinrandomhouse.com/books/330912/the-48-laws-of-power-by-robert-greene/9780140280197/): Robert Greene's guide to understanding power dynamics
 * [AthensMade](https://www.visitathensga.com/listing/athensmade/623/): accelerating entrepreneurship in Athens, GA with free wine and food
 * [Georgia FinTech Academy](https://georgiafintechacademy.org/events/): talent development initiative for any student to learn more about fintech
 * [Georgia Kickstart Program](https://gakickstartfund.uga.edu/): student-managed venture capital fund that invests in student-run businesses
@@ -186,6 +187,8 @@
 * [Small Business Development Center Training Programs](https://georgiasbdc.org/training-program/): help current and aspiring business owners learn practical skills
 * [Startup101](https://research.uga.edu/gateway/startup-101/): ccessible one-off seminars that focus on real-world skills and strategies
 * [UGA I-Corps](https://ugaicorps.uga.edu/): providing hands-on training to UGA faculty and students through its six-week Accelerator
+- [Value Proposition Design](https://www.strategyzer.com/library/value-proposition-design-2): practical framework for creating products and services
+- [Zero to One: Notes on Startups, or How to Build the Future](https://penguinrandomhousehighereducation.com/book/?isbn=9780804139298): Peter Thiel's guide to entrepreneurship
 
 ## Side Hustles
 * [DataAnnotation](https://www.dataannotation.tech/): AI training competitor
