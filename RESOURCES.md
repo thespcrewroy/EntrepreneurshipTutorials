@@ -40,7 +40,6 @@
     * Vietnamese Language and Literature
 
 ## College Certificates
-* Actuarial Science
 * Asian Studies
 * English to Speakers of Other Languages (ESOL)
 * Entrepreneurship
