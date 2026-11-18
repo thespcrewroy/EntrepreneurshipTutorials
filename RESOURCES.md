@@ -43,10 +43,10 @@
 ## College Certificates
 * Artificial Intelligence
 * Asian Studies
-* Computer Science
+* ⭐️ Computer Science
 * English to Speakers of Other Languages (ESOL)
-* Entrepreneurship
-* FinTech
+* ⭐️ Entrepreneurship
+* ⭐️ FinTech
 * Leadership Fellows
 * Legal Studies
 * Music Business
@@ -59,7 +59,7 @@
 ## College Courses
 * Principles of Accounting (ACCT 2101)
 * Beginning Horsemanship (ADSC 2500L)
-* Principles of FinTech (BUSN 3700)
+* ⭐️ Principles of FinTech (BUSN 3700)
 * Communicating for Business Effectiveness (BUSN 4900)
 * Introduction to Human Communication (COMM 1000)
 * Introduction to Public Speaking (COMM 1110)
@@ -74,18 +74,17 @@
 * Design Thinking (ENTR 5090)
 * ⭐️ [Introduction to Entrepnreurship (ENTR 5500)](https://quizlet.com/user/royswapnil07/folders/introduction-to-entrepreneurship-entr-5500)
 * ⭐️ [Financing the Entrepreneurial Venture (ENTR 5505)](https://tinyurl.com/mt6n9mmk) | [Supplemental](https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture)
-* Managing the Entrepreneurial Venture (ENTR 5525)
+* ⭐️ Managing the Entrepreneurial Venture (ENTR 5525)
 * Franchising (ENTR 5430)
 * LEARN: Entrepreneurial Thinking in Arts and Sciences (FCID 4001)
-* Introduction to Personal Finance (FHCE 3200)
+* ⭐️ Introduction to Personal Finance (FHCE 3200)
 * Financial Management (FINA 3000/3001)
-* Innovation Catalyst and Design (IDEA 4000)
+* ⭐️ Innovation Catalyst and Design (IDEA 4000)
 * Industry Leaders Fellows Project (IDEA 4020)
 * Leadership and Personal Development (ILAD 4100)
 * Personal Career Management and Service Learning (ILAD 5000S)
 * Service-Learning Project Management (ILAD 5010S)
-* Legal and Regulatory Environment of Business (LEGL 2700)
-* FinTech and Financial Services Law (LEGL 4700)
+* ⭐️ FinTech and Financial Services Law (LEGL 4700)
 * Principles of Marketing (MARK 3000/3001)
 * Principles of Management (MGMT 3000/3001)
 * Introduction to Information Systems and Artificial Intelligence in Business (MIST 2090)
@@ -102,14 +101,14 @@
 * Beginning Basketball (PEDB 1040)
 * Challenge Course (PEDB 1070)
 * Beginning Bowling (PEDB 1080)
-* Outdoor Adventure Activities (PEDB 1090)
+* ⭐️ Outdoor Adventure Activities (PEDB 1090)
 * Beginning Backpacking - Hiking (PEDB 1100)
 * Intermediate Golf (PEDB 1130)
 * Self Defense (PEDB 1150)
 * Soccer (PEDB 1270)
 * Ultimate (PEDB 1280)
 * Pickleball (PEDB 1340)
-* Intermediate Volleyball (PEDB 1390)
+* ⭐️ Intermediate Volleyball (PEDB 1390)
 * Weight Training (PEDB 1400)
 * Introduction to Tap Dance (PEDB 1601)
 * Introduction to Jazz Dance (PEDB 1604)
@@ -118,8 +117,8 @@
 * Introduction to Ballroom Dance Lead Male (PEDB 1607)
 * Creative Dance for Wellbeing (PEDB 1609)
 * Risk Management and Insurance (RMIN 4000)
-* Accelerated Elementary Spanish (SPAN 1110E)
-* Intermediate Spanish 1 (SPAN 2001)
+* ⭐️ Accelerated Elementary Spanish (SPAN 1110E)
+* ⭐️ Intermediate Spanish 1 (SPAN 2001)
 
 ## Communities
 * Discord
